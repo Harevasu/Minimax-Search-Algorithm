@@ -266,7 +266,8 @@ if __name__ == "__main__":
     main()
 ```
 <h2>Sample Input and Output</h2>
-![image](https://github.com/user-attachments/assets/11d5ed1e-469b-4dad-8240-a66f91044551)
+![image](https://github.com/user-attachments/assets/59245ea5-d811-4a10-8806-697cf5e3bc77)
+
 
 
 <h2>Result:</h2>
