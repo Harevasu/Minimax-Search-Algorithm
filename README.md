@@ -1,6 +1,6 @@
-2<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: HAREVASU S     </h3>
-<h3>Register Number: 212223230069 </h3>
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h3>Name: THAMRAISELVAN V      </h3>
+<h3>Register Number:    212221230115    </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -101,9 +101,8 @@ def minimax(game)
         return scores[min_score_index]
     end
 end
-<h2>PROGRAM</h2>
-
-```py
+## PROGRAM:
+```
 import time
 
 class Game:
@@ -257,7 +256,6 @@ class Game:
                 self.current_state[px][py] = 'O'
                 self.player_turn = 'X'
 
-
 def main():
     g = Game()
     g.play()
@@ -265,11 +263,12 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-<h2>Sample Input and Output</h2>
+<hr>
+<h2>Output</h2>
+
 ![image](https://github.com/user-attachments/assets/64f2548c-efa0-4747-8b4f-4ee61b477ff8)
 ![image](https://github.com/user-attachments/assets/6af71964-e968-4b85-90af-0131043fee6d)
 
-
-
+<hr>
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
